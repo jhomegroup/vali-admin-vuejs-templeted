@@ -20,7 +20,3 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # vali-admin-vuejs-templeted
-# vali-admin-vuejs-templeted
-# vali-admin-vuejs-templeted
-# vuejs-vali-admin
-# vali-admin-vuejs-templeted
