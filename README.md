@@ -23,3 +23,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # vali-admin-vuejs-templeted
 # vali-admin-vuejs-templeted
 # vuejs-vali-admin
+# vali-admin-vuejs-templeted
