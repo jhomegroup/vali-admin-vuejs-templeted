@@ -6,7 +6,7 @@
     <section class="login-content">
       <img src="../../assets/logo.png" alt="" width="120" />
       <div class="logo">
-        <h1>WorkLoad IT Service</h1>
+        <h1>ProjectName</h1>
       </div>
       <div class="login-box">
         <form class="login-form" action="">
@@ -80,6 +80,6 @@
 
 <script>
 export default {
-  name: "Apps",
+  
 };
 </script>

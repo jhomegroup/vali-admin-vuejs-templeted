@@ -2,7 +2,7 @@
   <div>
     <!-- Navbar-->
     <header class="app-header">
-      <a class="app-header__logo" href="">Vali</a>
+      <a class="app-header__logo" href="">ProjectName</a>
       <!-- Sidebar toggle button--><a
         class="app-sidebar__toggle"
         href=""
@@ -31,8 +31,8 @@
               <li>
                 <a class="app-notification__item" href="javascript:;">
                   <div>
-                    <p class="app-notification__message">title</p>
-                    <p class="app-notification__meta">DateTime</p>
+                    <p class="app-notification__message">Title</p>
+                    <p class="app-notification__meta">2021-03-01</p>
                   </div></a
                 >
               </li>
@@ -89,7 +89,7 @@
           alt="User Image"
         />
         <div>
-          <p class="app-sidebar__user-name">John Doe</p>
+          <p class="app-sidebar__user-name">Administrator</p>
           <p class="app-sidebar__user-designation">Frontend Developer</p>
         </div>
       </div>
@@ -133,7 +133,7 @@
             <font-awesome-icon icon="home" />
             Dashboard
           </h1>
-          <p>A free and open source Bootstrap 4 admin template</p>
+          <p>sub_content</p>
         </div>
         <ul class="app-breadcrumb breadcrumb">
           <li class="breadcrumb-item">
