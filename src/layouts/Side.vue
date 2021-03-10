@@ -10,12 +10,42 @@ export default {
     };
   },
   methods: {
-    fetch_() {},
-    view_() {},
-    insert_() {},
-    edit_() {},
-    update_() {},
-    delete_() {},
+    async fetch_() {
+      try {
+        const res = await HTTP.get(`${this.url}/__`);
+        res.data;
+      } catch (error) {}
+    },
+    async view_() {
+      try {
+        const res = await HTTP.get(`${this.url}/__`);
+        res.data;
+      } catch (error) {}
+    },
+    async insert_() {
+      try {
+        const res = await HTTP.get(`${this.url}/__`);
+        res.data;
+      } catch (error) {}
+    },
+    async edit_() {
+      try {
+        const res = await HTTP.get(`${this.url}/__`);
+        res.data;
+      } catch (error) {}
+    },
+    async update_() {
+      try {
+        const res = await HTTP.get(`${this.url}/__`);
+        res.data;
+      } catch (error) {}
+    },
+    async delete_() {
+      try {
+        const res = await HTTP.get(`${this.url}/__`);
+        res.data;
+      } catch (error) {}
+    },
   },
 };
 </script>
